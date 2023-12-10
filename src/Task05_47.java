@@ -1,4 +1,4 @@
-public class Task5_47 {
+public class Task05_47 {
 /*
 Даны числа.
 Определить их произведение.
