@@ -16,6 +16,7 @@ public class Task12_07 {
             System.out.println(Arrays.toString(asd[i]));
         }
 
+        //число подгоняем под индекс (n-1)
         int n = 57;
         int n1 = (n-1)/10;
         int n2 = (n-1)%10;
